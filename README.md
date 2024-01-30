@@ -4,7 +4,6 @@ Ekran Görüntüleri -->
 
 ![Ekran görüntüsü 2024-01-30 104357](https://github.com/ibrahimcangok/Text_Mining_and_Classification_for_Customer_Support_Tickets/assets/106431802/30466ffa-45d9-44a2-8036-f3f424eb9eba)
 
-
 WordClouds -->
 ![Figure_1](https://github.com/ibrahimcangok/Text_Mining_and_Classification_for_Customer_Support_Tickets/assets/106431802/c5b903b0-34b4-4db7-86c3-a74cf7d80e30)
 ![Figure_2](https://github.com/ibrahimcangok/Text_Mining_and_Classification_for_Customer_Support_Tickets/assets/106431802/8db610a8-a1ea-479e-bf8e-38581d5e8673)
