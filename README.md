@@ -1,4 +1,4 @@
-Ekran Görüntüleri -->
+Screenshots -->
 
 ![Ekran görüntüsü 2024-01-30 104347](https://github.com/ibrahimcangok/Text_Mining_and_Classification_for_Customer_Support_Tickets/assets/106431802/11895420-71b6-4fa1-a3f2-66dfda0a7c91)
 
